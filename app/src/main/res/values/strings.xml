@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GameUziChess</string>
+    <string name="app_name">五子棋</string>
     <string name="choose_chess">选择执子</string>
     <string name="first">先手</string>
     <string name="second">后手</string>
